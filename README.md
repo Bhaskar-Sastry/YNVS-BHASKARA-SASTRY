@@ -1,6 +1,6 @@
 # YNVS-BHASKARA-SASTRY
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=YNVS BHASKARA SASTRY;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=YNVS BHASKARA SASTRY;" alt="" />
 </p>
 
 <p align="center">
