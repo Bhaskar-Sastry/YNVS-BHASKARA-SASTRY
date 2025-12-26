@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-      <img src="https://img.shields.io/badge/-Portfolio-2E9EF7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://bhaskarsastry.netlify.app/">    
+  <img src="https://img.shields.io/badge/-Portfolio-2E9EF7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ynvs-bhaskara-sastry-a81592223/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
