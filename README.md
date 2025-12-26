@@ -115,11 +115,7 @@ SRM Institute of Science and Technology (SRMIST), Chennai  *2021 – 2025* |
 
 ## 🎯 2025 Goals
 
-**H1 2025**
 - 🔄 Graduate with a B.Tech degree
-- 
-
-**H2 2025**
 - 📋 Secure Data Analyst role
 
 ---
